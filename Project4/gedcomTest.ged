@@ -1,0 +1,260 @@
+
+0 NOTE GitHub Link: https://github.com/DronadulaRamtej/CS555_WS__GedcomReader_Final_Project
+0 NOTE Repository Name: CS555_WS__GedcomReader_Final_Project
+0 NOTE Name: Dronadula Ramtej
+0 NOTE Test Family tree
+
+0 I02 INDI
+1 NAME Mike /Scot/
+1 SEX M
+1 BIRT
+2 DATE 5 JUL 1935
+1 DEAT
+2 DATE 28 AUG 4013
+1 FAMS F03
+0 NOTE end of individual
+
+0 I01 INDI
+1 NAME Janine /Scot/
+1 SEX F
+1 BIRT
+2 DATE 27 DEC 1037
+1 FAMS F03
+0 NOTE end of individual
+
+0 I05 INDI
+1 NAME Dove /Scot/
+1 SEX F
+1 BIRT
+2 DATE 27 NOV 1968
+1 FAMC F03
+0 NOTE end of individual
+
+0 I03 INDI
+1 NAME Frank /Scot/
+1 SEX M
+1 BIRT
+2 DATE 13 APR 2060
+1 FAMC F03
+1 FAMS F01
+1 FAMS F02
+0 NOTE end of individual
+
+0 I04 INDI
+1 NAME Siera /Scot/
+1 SEX F
+1 BIRT
+2 DATE 26 JUN 1960
+1 DEAT
+2 DATE 11 SEP 2005
+1 FAMS F01
+0 NOTE end of individual
+
+0 I08 INDI
+1 NAME Travis /Scot/
+1 SEX M
+1 BIRT
+2 DATE 2 FEB 1961
+1 FAMS F02
+0 NOTE end of individual
+
+0 I06 INDI
+1 NAME David /Scot/
+1 SEX M
+1 BIRT
+2 DATE 19 SEP 2005
+1 FAMC F01
+0 NOTE end of individual
+
+0 I07 INDI
+1 NAME Allen /Scot/
+1 SEX F
+1 BIRT
+2 DATE 21 MAY 2004
+1 DEAT
+2 DATE 12 MAR 2002
+1 FAMC F02
+0 NOTE end of individual
+
+0 I09 INDI
+1 NAME Dan /Scot/
+1 SEX M
+1 BIRT
+2 DATE 5 JUN 1968
+1 FAMC F03
+0 NOTE end of individual
+
+0 I10 INDI
+1 NAME Peter /Scot/
+1 SEX M
+1 BIRT
+2 DATE 21 MAY 2004
+1 FAMC F02
+0 NOTE end of individual
+
+0 I11 INDI
+1 NAME Peter /Scot/
+1 SEX M
+1 BIRT
+2 DATE 21 MAY 2004
+1 DEAT
+2 DATE 19 FEB 2008
+1 FAMC F02
+0 NOTE end of individual
+
+0 I11 INDI
+1 NAME Tom /Cruise/
+1 SEX M
+1 BIRT
+2 DATE 21 MAY 2004
+1 FAMC F02
+0 NOTE end of individual
+
+0 I13 INDI
+1 NAME Sydney /Scot/
+1 SEX F
+1 BIRT
+2 DATE 21 MAY 2004
+1 FAMC F02
+0 NOTE end of individual
+
+0 I14 INDI
+1 NAME Jessica /Scot/
+1 SEX F
+1 BIRT
+2 DATE 21 MAY 2007
+1 FAMC F02
+0 NOTE end of individual
+
+0 I15 INDI
+1 NAME Lynn /Scot/
+1 SEX F
+1 BIRT
+2 DATE 21 MAY 2007
+1 FAMC F02
+0 NOTE end of individual
+
+0 I16 INDI
+1 NAME Audry /Scot/
+1 SEX F
+1 BIRT
+2 DATE 21 MAY 2007
+1 FAMC F02
+0 NOTE end of individual
+
+0 I17 INDI
+1 NAME Stella /Scot/
+1 SEX F
+1 BIRT
+2 DATE 21 MAY 2007
+1 FAMC F02
+0 NOTE end of individual
+
+0 I18 INDI
+1 NAME Kevin /Scot/
+1 SEX M
+1 BIRT
+2 DATE 21 MAY 2007
+1 FAMC F02
+0 NOTE end of individual
+
+0 I19 INDI
+1 NAME Drake /Scot/
+1 SEX M
+1 BIRT
+2 DATE 21 MAY 2007
+1 FAMC F02
+0 NOTE end of individual
+
+0 I20 INDI
+1 NAME Cara /Scot/
+1 SEX F
+1 BIRT
+2 DATE 21 MAY 2007
+1 FAMC F02
+0 NOTE end of individual
+
+0 I21 INDI
+1 NAME Rob /Scot/
+1 SEX M
+1 BIRT
+2 DATE 21 MAY 2007
+1 FAMC F02
+0 NOTE end of individual
+
+0 I22 INDI
+1 NAME Jill /Scot/
+1 SEX M
+1 BIRT
+2 DATE 21 MAY 2007
+1 FAMC F02
+0 NOTE end of individual
+
+0 I23 INDI
+1 NAME Mark /Scot/
+1 SEX M
+1 BIRT
+2 DATE 21 MAY 2007
+1 FAMC F02
+0 NOTE end of individual
+
+0 I24 INDI
+1 NAME Dina /Scot/
+1 SEX F
+1 BIRT
+2 DATE 21 MAY 2007
+1 FAMC F02
+0 NOTE end of individual
+
+0 F03 FAM
+1 MARR
+2 DATE 21 DEC 1958
+1 DIV
+2 DATE 20 JAN 1957
+1 HUSB I02
+1 WIFE I01
+1 CHIL I05
+1 CHIL I03
+1 CHIL I09
+0 NOTE end of family
+
+0 F01 FAM
+1 MARR
+2 DATE 22 NOV 2006
+1 DIV
+2 DATE 28 OCT 2010
+1 HUSB I03
+1 WIFE I04
+1 CHIL I06
+0 NOTE end of family
+
+0 F02 FAM
+1 MARR
+2 DATE 5 JAN 2003
+1 HUSB I03
+1 WIFE I08
+1 CHIL I07
+1 CHIL I10
+1 CHIL I11
+1 CHIL I13
+1 CHIL I14
+1 CHIL I15
+1 CHIL I16
+1 CHIL I17
+1 CHIL I18
+1 CHIL I19
+1 CHIL I20
+1 CHIL I21
+1 CHIL I22
+1 CHIL I23
+1 CHIL I24
+0 NOTE end of family
+
+0 F04 FAM
+1 MARR
+2 DATE 22 NOV 2006
+1 HUSB I03
+1 WIFE I04
+0 NOTE end of family
+
+0 NOTE end of tree
