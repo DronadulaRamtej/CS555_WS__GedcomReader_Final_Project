@@ -1,0 +1,95 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2639
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\margl1440\margr1440\vieww11520\viewh8400\viewkind0
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+
+\f0\fs24 \cf0 dronadularamtej@Dronadulas-MacBook-Pro Agile % /usr/local/bin/python3.11 /Users/dronadularamtej/Desktop/Agile/sprint3.py\
+|Individual_ID|Name        |Sex|Birth Date|Death Date|Spouse In     |Child In|\
+|I01|Janine Scot |F|1037-12-27|NA        |['F03']       |NA |\
+|I02|Mike Scot   |M|1935-07-05|4013-08-28|['F03']       |NA |\
+|I03|Frank Scot  |M|2060-04-13|NA        |['F01', 'F02']|F03|\
+|I04|Siera Scot  |F|1960-06-26|2005-09-11|['F01']       |NA |\
+|I05|Dove Scot   |F|1968-11-27|NA        |NA            |F03|\
+|I06|David Scot  |M|2005-09-19|NA        |NA            |F01|\
+|I07|Allen Scot  |F|2004-05-21|2002-03-12|NA            |F02|\
+|I08|Travis Scot |M|1961-02-02|NA        |['F02']       |NA |\
+|I09|Dan Scot    |M|1968-06-05|NA        |NA            |F03|\
+|I10|Peter Scot  |M|2004-05-21|NA        |NA            |F02|\
+|I11|Peter Scot  |M|2004-05-21|2008-02-19|NA            |F02|\
+|I11|Tom Cruise  |M|2004-05-21|NA        |NA            |F02|\
+|I13|Sydney Scot |F|2004-05-21|NA        |NA            |F02|\
+|I14|Jessica Scot|F|2007-05-21|NA        |NA            |F02|\
+|I15|Lynn Scot   |F|2007-05-21|NA        |NA            |F02|\
+|I16|Audry Scot  |F|2007-05-21|NA        |NA            |F02|\
+|I17|Stella Scot |F|2007-05-21|NA        |NA            |F02|\
+|I18|Kevin Scot  |M|2007-05-21|NA        |NA            |F02|\
+|I19|Drake Scot  |M|2007-05-21|NA        |NA            |F02|\
+|I20|Cara Scot   |F|2007-05-21|NA        |NA            |F02|\
+|I21|Rob Scot    |M|2007-05-21|NA        |NA            |F02|\
+|I22|Jill Scot   |M|2007-05-21|NA        |NA            |F02|\
+|I23|Mark Scot   |M|2007-05-21|NA        |NA            |F02|\
+|I24|Dina Scot   |F|2007-05-21|NA        |NA            |F02|\
+\
++-----------+------------+---------+---------------+--------------+-----------------------------------------------------------------------------------------------------------+\
+| Family_ID | Husband ID | Wife ID | Marriage Date | Divorce Date |                                                  Children                                                 |\
++-----------+------------+---------+---------------+--------------+-----------------------------------------------------------------------------------------------------------+\
+|    F01    |    I03     |   I04   |   2006-11-22  |  2010-10-28  |                                                  ['I06']                                                  |\
+|    F02    |    I03     |   I08   |   2003-01-05  |      NA      | ['I07', 'I10', 'I11', 'I13', 'I14', 'I15', 'I16', 'I17', 'I18', 'I19', 'I20', 'I21', 'I22', 'I23', 'I24'] |\
+|    F03    |    I02     |   I01   |   1958-12-21  |  1957-01-20  |                                           ['I05', 'I03', 'I09']                                           |\
+|    F04    |    I03     |   I04   |   2006-11-22  |      NA      |                                                     NA                                                    |\
++-----------+------------+---------+---------------+--------------+-----------------------------------------------------------------------------------------------------------+\
+US24: Based on the names of the spouses and the date they got married, every family is different.\
+\
+US23: Duplicate names and birth dates have been found for the following people:\{('Peter Scot', '2004-05-21')\}\
+\
+US06: The divorce dates of the following families are after the death of one of the partners.: ['F01']\
+US13: Siblings I07 and I14 in Family F02 have Less than or equal to 8 months between birth dates.\
+US13: Siblings I07 and I15 in Family F02 have Less than or equal to 8 months between birth dates.\
+US13: Siblings I07 and I16 in Family F02 have Less than or equal to 8 months between birth dates.\
+US13: Siblings I07 and I17 in Family F02 have Less than or equal to 8 months between birth dates.\
+US13: Siblings I07 and I18 in Family F02 have Less than or equal to 8 months between birth dates.\
+US13: Siblings I07 and I19 in Family F02 have Less than or equal to 8 months between birth dates.\
+US13: Siblings I07 and I20 in Family F02 have Less than or equal to 8 months between birth dates.\
+US13: Siblings I07 and I21 in Family F02 have Less than or equal to 8 months between birth dates.\
+US13: Siblings I07 and I22 in Family F02 have Less than or equal to 8 months between birth dates.\
+US13: Siblings I07 and I23 in Family F02 have Less than or equal to 8 months between birth dates.\
+US13: Siblings I07 and I24 in Family F02 have Less than or equal to 8 months between birth dates.\
+US13: Siblings I10 and I14 in Family F02 have Less than or equal to 8 months between birth dates.\
+US13: Siblings I10 and I15 in Family F02 have Less than or equal to 8 months between birth dates.\
+US13: Siblings I10 and I16 in Family F02 have Less than or equal to 8 months between birth dates.\
+US13: Siblings I10 and I17 in Family F02 have Less than or equal to 8 months between birth dates.\
+US13: Siblings I10 and I18 in Family F02 have Less than or equal to 8 months between birth dates.\
+US13: Siblings I10 and I19 in Family F02 have Less than or equal to 8 months between birth dates.\
+US13: Siblings I10 and I20 in Family F02 have Less than or equal to 8 months between birth dates.\
+US13: Siblings I10 and I21 in Family F02 have Less than or equal to 8 months between birth dates.\
+US13: Siblings I10 and I22 in Family F02 have Less than or equal to 8 months between birth dates.\
+US13: Siblings I10 and I23 in Family F02 have Less than or equal to 8 months between birth dates.\
+US13: Siblings I10 and I24 in Family F02 have Less than or equal to 8 months between birth dates.\
+US13: Siblings I11 and I14 in Family F02 have Less than or equal to 8 months between birth dates.\
+US13: Siblings I11 and I15 in Family F02 have Less than or equal to 8 months between birth dates.\
+US13: Siblings I11 and I16 in Family F02 have Less than or equal to 8 months between birth dates.\
+US13: Siblings I11 and I17 in Family F02 have Less than or equal to 8 months between birth dates.\
+US13: Siblings I11 and I18 in Family F02 have Less than or equal to 8 months between birth dates.\
+US13: Siblings I11 and I19 in Family F02 have Less than or equal to 8 months between birth dates.\
+US13: Siblings I11 and I20 in Family F02 have Less than or equal to 8 months between birth dates.\
+US13: Siblings I11 and I21 in Family F02 have Less than or equal to 8 months between birth dates.\
+US13: Siblings I11 and I22 in Family F02 have Less than or equal to 8 months between birth dates.\
+US13: Siblings I11 and I23 in Family F02 have Less than or equal to 8 months between birth dates.\
+US13: Siblings I11 and I24 in Family F02 have Less than or equal to 8 months between birth dates.\
+US13: Siblings I13 and I14 in Family F02 have Less than or equal to 8 months between birth dates.\
+US13: Siblings I13 and I15 in Family F02 have Less than or equal to 8 months between birth dates.\
+US13: Siblings I13 and I16 in Family F02 have Less than or equal to 8 months between birth dates.\
+US13: Siblings I13 and I17 in Family F02 have Less than or equal to 8 months between birth dates.\
+US13: Siblings I13 and I18 in Family F02 have Less than or equal to 8 months between birth dates.\
+US13: Siblings I13 and I19 in Family F02 have Less than or equal to 8 months between birth dates.\
+US13: Siblings I13 and I20 in Family F02 have Less than or equal to 8 months between birth dates.\
+US13: Siblings I13 and I21 in Family F02 have Less than or equal to 8 months between birth dates.\
+US13: Siblings I13 and I22 in Family F02 have Less than or equal to 8 months between birth dates.\
+US13: Siblings I13 and I23 in Family F02 have Less than or equal to 8 months between birth dates.\
+US13: Siblings I13 and I24 in Family F02 have Less than or equal to 8 months between birth dates.\
+US13: Siblings I05 and I09 in Family F03 have Less than or equal to 8 months between birth dates.\
+US13: What follows Birth dates are too close together for sibling pairs in Families: [('I07', 'I14', 'F02', 'Less than or equal to 8 months between birth dates'), ('I07', 'I15', 'F02', 'Less than or equal to 8 months between birth dates'), ('I07', 'I16', 'F02', 'Less than or equal to 8 months between birth dates'), ('I07', 'I17', 'F02', 'Less than or equal to 8 months between birth dates'), ('I07', 'I18', 'F02', 'Less than or equal to 8 months between birth dates'), ('I07', 'I19', 'F02', 'Less than or equal to 8 months between birth dates'), ('I07', 'I20', 'F02', 'Less than or equal to 8 months between birth dates'), ('I07', 'I21', 'F02', 'Less than or equal to 8 months between birth dates'), ('I07', 'I22', 'F02', 'Less than or equal to 8 months between birth dates'), ('I07', 'I23', 'F02', 'Less than or equal to 8 months between birth dates'), ('I07', 'I24', 'F02', 'Less than or equal to 8 months between birth dates'), ('I10', 'I14', 'F02', 'Less than or equal to 8 months between birth dates'), ('I10', 'I15', 'F02', 'Less than or equal to 8 months between birth dates'), ('I10', 'I16', 'F02', 'Less than or equal to 8 months between birth dates'), ('I10', 'I17', 'F02', 'Less than or equal to 8 months between birth dates'), ('I10', 'I18', 'F02', 'Less than or equal to 8 months between birth dates'), ('I10', 'I19', 'F02', 'Less than or equal to 8 months between birth dates'), ('I10', 'I20', 'F02', 'Less than or equal to 8 months between birth dates'), ('I10', 'I21', 'F02', 'Less than or equal to 8 months between birth dates'), ('I10', 'I22', 'F02', 'Less than or equal to 8 months between birth dates'), ('I10', 'I23', 'F02', 'Less than or equal to 8 months between birth dates'), ('I10', 'I24', 'F02', 'Less than or equal to 8 months between birth dates'), ('I11', 'I14', 'F02', 'Less than or equal to 8 months between birth dates'), ('I11', 'I15', 'F02', 'Less than or equal to 8 months between birth dates'), ('I11', 'I16', 'F02', 'Less than or equal to 8 months between birth dates'), ('I11', 'I17', 'F02', 'Less than or equal to 8 months between birth dates'), ('I11', 'I18', 'F02', 'Less than or equal to 8 months between birth dates'), ('I11', 'I19', 'F02', 'Less than or equal to 8 months between birth dates'), ('I11', 'I20', 'F02', 'Less than or equal to 8 months between birth dates'), ('I11', 'I21', 'F02', 'Less than or equal to 8 months between birth dates'), ('I11', 'I22', 'F02', 'Less than or equal to 8 months between birth dates'), ('I11', 'I23', 'F02', 'Less than or equal to 8 months between birth dates'), ('I11', 'I24', 'F02', 'Less than or equal to 8 months between birth dates'), ('I13', 'I14', 'F02', 'Less than or equal to 8 months between birth dates'), ('I13', 'I15', 'F02', 'Less than or equal to 8 months between birth dates'), ('I13', 'I16', 'F02', 'Less than or equal to 8 months between birth dates'), ('I13', 'I17', 'F02', 'Less than or equal to 8 months between birth dates'), ('I13', 'I18', 'F02', 'Less than or equal to 8 months between birth dates'), ('I13', 'I19', 'F02', 'Less than or equal to 8 months between birth dates'), ('I13', 'I20', 'F02', 'Less than or equal to 8 months between birth dates'), ('I13', 'I21', 'F02', 'Less than or equal to 8 months between birth dates'), ('I13', 'I22', 'F02', 'Less than or equal to 8 months between birth dates'), ('I13', 'I23', 'F02', 'Less than or equal to 8 months between birth dates'), ('I13', 'I24', 'F02', 'Less than or equal to 8 months between birth dates'), ('I05', 'I09', 'F03', 'Less than or equal to 8 months between birth dates')]\
+\
+dronadularamtej@Dronadulas-MacBook-Pro Agile % }
